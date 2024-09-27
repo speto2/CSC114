@@ -1,4 +1,5 @@
 //Tyler Ramey, CSC 114, 9/27/2024, Module 3: Vars and Data Types
+//All code is written exclusivley by me
 
 #include <iostream> 
 using namespace std; 
